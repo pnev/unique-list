@@ -24,8 +24,8 @@ class UniqueList
           @tail.next_node = new_node
           @tail = new_node
         end
-         end
-        end
+    end
+  end
 
    def empty?
       #defines an empty list
